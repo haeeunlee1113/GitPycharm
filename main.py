@@ -1,2 +1,4 @@
 if __name__ == '__main__':
-    print('Update from local A')
+    print("Update in local B")
+    print('Update in local A')
+    Update in leader
